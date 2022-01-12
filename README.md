@@ -1,6 +1,6 @@
 ### Olá! Sou Robson Magno 👋
 
-- 🔭 Estou atualmente estudando .NET Core
+- 🔭 .NET e .NET Core
 - 📖 Estudando API
 - 📧  Contate-me no email: magnomon@hotmail.com
 
