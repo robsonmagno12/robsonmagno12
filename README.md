@@ -1,7 +1,7 @@
 ### Olá! Sou Robson Magno 👋
 
 - 🔭 .NET e .NET Core
-- 📖 Estudando API
+- 📖 API
 - 📧  Contate-me no email: magnomon@hotmail.com
 
 <div align="center">
