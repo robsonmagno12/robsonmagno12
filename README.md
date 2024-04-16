@@ -1,6 +1,6 @@
 ### Olá! Sou Robson Magno 👋
 
-- 🔭 .NET e .NET Core
+- 🔭 .NET Full, Delphi, Java, Sql Server, Pl/SQL Oracle
 - 📖 API
 - 📧  Contate-me no email: magnomon@hotmail.com
 
